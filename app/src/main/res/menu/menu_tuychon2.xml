@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_suanv"
+        android:title="Update"/>
+    <item
+        android:id="@+id/menu_xoanv"
+        android:title="Xóa"/>
+    <item
+        android:id="@+id/menu_sendemail"
+        android:title="Gửi Email"/>
+    <item
+        android:id="@+id/menu_sendsms"
+        android:title="Gửi SMS"/>
+
+</menu>
